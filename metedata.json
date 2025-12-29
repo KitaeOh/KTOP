@@ -1,6 +1,7 @@
 {
-"name": "KTOPM",
-"description": "KTOP POOL for TEST",
-"ticker": "KTOPM",
-"homepage": "https://cardanokorea.com"
+  "name": "KTOPM",
+  "description": "KTOP POOL for TEST",
+  "ticker": "KTOPM",
+  "homepage": "https://cardanokorea.com",
+  "extended": "https://raw.githubusercontent.com/KitaeOh/KTOP/refs/heads/main/extended.json"
 }
