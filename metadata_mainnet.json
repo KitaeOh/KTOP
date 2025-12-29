@@ -3,5 +3,5 @@
   "ticker": "KTOP",
   "description": "월드모바일, 미드나잇 엠버서더로 활동하는 KTOP 입니다. 매 에포크 양질의 에어드랍을 제공하여, 위임자분들께 최고의 수익을 돌려드립니다",
   "homepage": "https://cardanokorea.com",
-  "extended": "https://raw.githubusercontent.com/KitaeOh/KTOP/refs/heads/main/extended.json"
+  "extended": "https://raw.githubusercontent.com/KitaeOh/KTOP/refs/heads/main/extended_mainnet.json"
 }
