@@ -1,6 +1,7 @@
 {
-"name": "KTO_KR",
-"description": "Hello all valuable deligators, Welcome to KTO pool",
-"ticker": "KTOP",
-"homepage": "https://cardanokorea.com"
+  "name": "KTOP Pool",
+  "ticker": "KTOP",
+  "description": "",
+  "homepage": "https://cardanokorea.com",
+  "extended": "https://raw.githubusercontent.com/.../extended.json"
 }
