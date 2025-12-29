@@ -1,0 +1,16 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/KitaeOh/KTOP/main/Big_LOGO.png",
+    "url_png_logo": "https://raw.githubusercontent.com/KitaeOh/KTOP/main/Big_LOGO.png",
+    "location": "Seoul, South Korea",
+    "social": {
+      "twitter_handle": "ktop_pool",
+      "telegram_handle": "ktop_pool",
+      "youtube_handle": "ktop_pool",
+      "discord_handle": "ktop_pool"
+    }
+  },
+  "my-pool-ids": {
+    "0": "pool1nvqlcq38pjr97ylaulvsx5jwp5vg360jluf0zrthv9d4vk7ksed"
+  }
+}
