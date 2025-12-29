@@ -1,0 +1,21 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://asset1ks0j86t5p66keak9r5ftacggz0pdkgvc6zdjeu.poolpm.nftcdn.io/preview?tk=DGUrcB7PHZZhIVym1MSsaF8MncnJ6msmmg0XRJi9NNg",
+    "url_png_logo": "https://asset1ks0j86t5p66keak9r5ftacggz0pdkgvc6zdjeu.poolpm.nftcdn.io/preview?tk=DGUrcB7PHZZhIVym1MSsaF8MncnJ6msmmg0XRJi9NNg",
+    "location": "Seoul, South Korea",
+    "social": {
+      "twitter_handle": "@ktop_pool",
+      "telegram_handle": "@ktop_pool",
+      "youtube_handle": "@ktop_pool",
+      "discord_handle": "@ktop_pool"
+    },
+    "company": "KTOP Pool Team",
+    "about": {
+      "me": "안녕하세요, 카르다노의 발전을 위해 노력하는 KTOP입니다.",
+      "server": "Bare-metal: 32GB RAM, 8 Core CPU, NVMe SSD"
+    }
+  },
+  "my-pool-ids": {
+    "0": "pool1로 시작하는_본인의_Bech32_ID"
+  }
+}
